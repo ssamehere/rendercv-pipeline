@@ -1,45 +1,26 @@
-cv:
-  name: John Doe
-  location: Your Location
-  email: youremail@yourdomain.com
-  phone: tel:+90-541-999-99-99
-  website: https://yourwebsite.com/
-  social_networks:
-    - network: LinkedIn
-      username: yourusername
-    - network: GitHub
-      username: yourusername
-  sections:
-    welcome_to_RenderCV!:
-      - '[RenderCV](https://github.com/sinaatalay/rendercv) is
-        a LaTeX-based CV/resume framework. It allows you to create
-        a high-quality CV or resume as a PDF file from a YAML
-        file, with **full Markdown syntax support** and **complete
-        control over the LaTeX code**.'
-      - The boilerplate content is taken from [here](https://github.com/dnl-blkv/mcdowell-cv),
-        where a *clean and tidy CV* pattern is proposed by **[Gayle
-        Laakmann McDowell](https://www.gayle.com/)**.
-    quick_guide:
-      - bullet: Each section title is arbitrary, and each section
-          contains a list of entries.
-      - bullet: 'There are 7 unique entry types: *BulletEntry*,
-          *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*,
-          *PublicationEntry*, and *OneLineEntry*.'
-      - bullet: Select a section title, pick an entry type, and
-          start writing your section!
-      - bullet: '[Here](https://docs.rendercv.com/user_guide/),
-          you can find a comprehensive user guide for RenderCV.'
+ name: Sameer Ali  
+  location: 39 Ashburton Road
+  email: sameerali.formal@gmail.com  
+  phone: tel:07717164876
+    Summary: 
+    - I am a highly ambitious and motivated individual looking for an entry into employment and aqcuisition of workplace skills and experience. 
+      
     education:
-      - institution: University of Pennsylvania
-        area: Computer Science
-        degree: BS
-        start_date: 2000-09
-        end_date: 2005-05
+      - institution : Holy Trinity Catholic School
+        area: GCSE
+        degree: 
+        start_date: 2016-09
+        end_date: 2021-05
         highlights:
-          - 'GPA: 3.9/4.0 ([Transcript](https://example.com))'
-          - '**Coursework:** Computer Architecture, Artificial
-            Intelligence, Comparison of Learning Algorithms, Computational
-            Theory'
+          - Grades Achieved: Biology
+          Chemistry
+          Physcis
+          Computer Science
+          English Language
+          English Literature
+          Geography
+          Mathematics
+          Religious Studies
     experience:
       - company: Apple
         position: Software Engineer
